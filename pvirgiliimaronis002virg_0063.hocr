@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pvirgiliimaronis002virg_0063.png"; bbox 0 0 2165 3792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 410 1188 1500 1275">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 410 1188 1500 1275">
+     <span class='ocr_line' id='line_1_1' title="bbox 410 1188 1500 1275; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 410 1191 536 1275; x_wconf 68' lang='lat' dir='ltr'><strong>M,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 659 1188 1500 1274; x_wconf 65' lang='lat' dir='ltr'><strong>MANILIT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 162 1451 1742 1567">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 162 1451 1746 1567">
+     <span class='ocr_line' id='line_1_2' title="bbox 162 1451 1742 1567; baseline -0.003 0"><span class='ocrx_word' id='word_1_3' title='bbox 162 1451 1742 1567; x_wconf 73' lang='lat' dir='ltr'><strong>ASTRONOMICON</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 326 1734 1547 1827">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 326 1734 1547 1827">
+     <span class='ocr_line' id='line_1_3' title="bbox 326 1734 1547 1827; baseline 0 -20"><span class='ocrx_word' id='word_1_4' title='bbox 326 1736 707 1808; x_wconf 82' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_5' title='bbox 821 1734 1547 1827; x_wconf 76' lang='lat' dir='ltr'><strong>QUINQUE.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
